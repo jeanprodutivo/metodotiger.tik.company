@@ -18,8 +18,15 @@
 }
 
 * {
-  font-family: helvetica, arial, sans-serif;
+  font-family: 'Sora', sans-serif;
 }
+
+h1 {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
 
 body {
   font-size: 16px;
